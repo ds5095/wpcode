@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 yum update -y
 yum install httpd php php-mysql stress -y
 cd /etc/httpd/conf
